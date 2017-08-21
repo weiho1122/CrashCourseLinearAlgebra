@@ -6,5 +6,7 @@ Reference Book:
 Useful source:
 
 [NO BULLSHIT GUIDE TO LINEAR ALGEBRA](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
+
 [Stanford CS229 repository](http://cs229.stanford.edu/section/)
+
 [MIT 18.06 Video lecture](https://www.youtube.com/watch?v=JibVXBElKL0&index=5&list=PLE7DDD91010BC51F8)
