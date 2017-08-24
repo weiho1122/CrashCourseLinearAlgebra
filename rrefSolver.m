@@ -1,3 +1,11 @@
+%{ 
+To find rank of column space (which equals to rank of row space), 
+you can simply use Reduced Row Echelon Format
+%}
+
+r = randi(100,5,4)
+R = rref(r)
+
 %{
 example to solve a matrix equation with constant of magic matrix
 [ 16 x_1 +  2 x_2 +  3 x_3 = 13
