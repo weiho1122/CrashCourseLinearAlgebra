@@ -1,3 +1,7 @@
+%{sample ploting 2-D matrix and 3-D matrix
+
+%}
+
 t=0:pi/20:2*pi;
 [x,y] = meshgrid(t)
 
