@@ -13,4 +13,4 @@ subplot(2,1,1)
 mesh(u');
 
 subplot(2,1,2)
-mesh(log(1+(abs(fftu))));
+mesh(log(1+(abs(fftu)))); 
