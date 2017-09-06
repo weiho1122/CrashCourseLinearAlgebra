@@ -1,0 +1,5 @@
+% create random 4x4 matrix with ele
+
+A = randi([1,100],4)
+
+[U,S,V] = svd(A)
